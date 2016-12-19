@@ -1,6 +1,6 @@
 # Vue-lazy
 
-> A vue.js boilerplate using vue-router to with lazy-loaded components/views incl. code splitting with webpack and more.
+> A vue.js boilerplate using vue-router with lazy-loaded components/views incl. code splitting with webpack and more.
 
 ![Vue-lazy screenshot](screenshot.png)
 
