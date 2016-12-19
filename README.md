@@ -4,6 +4,8 @@
 
 ![Vue-lazy screenshot](screenshot.png)
 
+When building apps with a bundler, the JavaScript bundle can become quite large and thus affecting page load time. It would be more efficient if we can split each route's components into a separate chunk, and only load them when the route is visited. This boilerplate sets you up.
+
 ## Build Setup
 
 ``` bash
